@@ -7,7 +7,7 @@ This is a simple Gradio-based GUI application for extracting and visualizing mot
 
 ## Example Result
 
-![Example Trajectory](./assets/trajectory_result.jpg){width=50%}
+![Example Trajectory](./assets/trajectory_result.jpg)
 *(Example showing a robotic arm's motion trajectory fading smoothly over time)*
 
 ## Prerequisites
