@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
-This is a Gradio-based GUI application for extracting and visualizing motion trajectories from videos.
+This is a simple Gradio-based GUI application for extracting and visualizing motion trajectories from videos.
 
 ## Example Result
 
